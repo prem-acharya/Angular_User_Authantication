@@ -1,3 +1,5 @@
+//missing the routes and controllers folders in server folder
+
 require("dotenv").config();
 
 const express = require("express");
